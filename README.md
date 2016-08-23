@@ -31,6 +31,7 @@ I consider myself a communicative person, always doing my best to make things ha
 ## Education
 
 **University of Southern Santa Catarina (UNISUL)**, Virtual Campus
+
 Technologist in Internet Systems, (2012-2015)
 
 
