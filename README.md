@@ -90,7 +90,7 @@ Key technologies: IBM System X, IBM Blade Center, IBM System Storage
 
 ## Other activities and projects
 - Founder/organizer of [OESTI Digital](https://www.oestidigital.com.br/)
-- Founder of [Aero Admin - Material Design Responsive Dashboard](www.felippepuhle.com.br/demo/aero)
+- Founder of [Aero Admin - Material Design Responsive Dashboard](http://demo.felippepuhle.com.br/aero/)
 
 
 ## Hobbies and interests
