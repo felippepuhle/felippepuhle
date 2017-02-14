@@ -1,6 +1,6 @@
 # About Me
 
-Hello! My name is **Felippe Rodrigo Puhle**, I'm 27 years old and I live in São Miguel do Oeste - Santa Catarina. I'm graduated in Internet Systems at UNISUL, and I'm a **full-stack developer** at [DBlinks - Agência Digital](http://www.dblinks.com.br), currently working with PHP, Java and onpage SEO optimizations.
+Hello! My name is **Felippe Rodrigo Puhle**, I'm 28 years old and I live in São Miguel do Oeste - Santa Catarina. I'm graduated in Internet Systems at UNISUL, and I'm a **full-stack developer** at [DBlinks - Agência Digital](http://www.dblinks.com.br), currently working with PHP, Java and onpage SEO optimizations.
 
 I love to develop software with clean code, and I'm fictionalized to learn as many things that I can. I've been studying a lot to indulge this **thirst for knowledge**. Therefore, I love to pass on all the things that I've learned too.
 
