@@ -1,6 +1,6 @@
 # About Me
 
-Hello! My name is **Felippe Rodrigo Puhle**, I'm 28 years old and I live in São Miguel do Oeste - Santa Catarina. I'm graduated in Internet Systems at UNISUL, and I'm a **full-stack developer** at [DBlinks - Agência Digital](http://www.dblinks.com.br), currently working with ReactJS, Relay, GraphQL, MongoDB and onpage SEO optimizations.
+Hello! My name is **Felippe Rodrigo Puhle**, I'm 28 years old and I live in São Miguel do Oeste - Santa Catarina. I'm graduated in Internet Systems at UNISUL, and I'm a **full-stack developer** at [Entria](https://www.entria.com.br), currently working with bleeding edge technology - ReactJS, Relay and GraphQL.
 
 I love to develop software with clean code, and I'm fictionalized to learn as many things that I can. I've been studying a lot to indulge this **thirst for knowledge**. Therefore, I love to pass on all the things that I've learned too.
 
@@ -27,7 +27,7 @@ I consider myself a communicative person, always doing my best to make things ha
 - Front-end development
 - Testing
 - Communication skills
-  
+
 
 ## Education
 
@@ -38,13 +38,17 @@ Technologist in Internet Systems (2012-2015)
 
 ## Professional experience
 
+### Entria
+
+**Full Stack Developer** (2017-current)
+
 ### DBlinks - Agência Digital
 
-**Full Stack Developer** (2012-present)
+**Full Stack Developer** (2012-2017)
 
 DBlinks is a multiplataform digital agency that convert different talents (inovation + technology + digital) to think about brands in a different way.
 
-I'm the technical leader of the team, architecting new ways to develop software and mentoring the team to work in a nice way. 
+I was the technical leader of the team, architecting new ways to develop software and mentoring the team to work in a nice way.
 
 Key technologies: ReactJS, Relay, GraphQL, MongoDB, SEO, Java, Spring Boot, CDI, Selenium, PHP, CodeIgniter, Symfony, Slim Framework, HTML, CSS, Bootstrap, Grunt, Gulp, LESS, Javascript, Cordova, IONIC, AngularJS, MySQL, ElasticSearch, AWS
 
@@ -64,7 +68,7 @@ Key technologies: PHP, MySQL, Javascript, LAN, WAN, Mikrotik, AP Router, Ubiquit
 
 Safesystem Informática is a company that deliver intelligent IT solutions to the customers in a way that they can have return on their investment. Located on Curitiba - Paraná, it's considerated a leading IT solutions provider to the corporate and government segments.
 
-In my role, I acted as a technical expert to strengthen the business acumen, to understand and communicate business requirements and solution to prospects. 
+In my role, I acted as a technical expert to strengthen the business acumen, to understand and communicate business requirements and solution to prospects.
 
 Key technologies: IBM System X, IBM Blade Center, IBM System Storage
 
