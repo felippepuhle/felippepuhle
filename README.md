@@ -1,6 +1,6 @@
 # About Me
 
-Hello! My name is **Felippe Rodrigo Puhle**, I'm 28 years old and I live in São Miguel do Oeste - Santa Catarina. I'm graduated in Internet Systems at UNISUL, and I'm a **full-stack developer** at [Entria](https://www.entria.com.br), currently working with bleeding edge technology - ReactJS, Relay and GraphQL.
+Hello! My name is **Felippe Rodrigo Puhle**, I'm 29 years old and I live in São Miguel do Oeste - Santa Catarina. I'm graduated in Internet Systems at UNISUL, and I'm a **full-stack developer** at [Entria](https://www.entria.com.br), currently working with bleeding edge technology - ReactJS, Relay and GraphQL.
 
 I love to develop software with clean code, and I'm fictionalized to learn as many things that I can. I've been studying a lot to indulge this **thirst for knowledge**. Therefore, I love to pass on all the things that I've learned too.
 
@@ -9,8 +9,8 @@ I consider myself a communicative person, always doing my best to make things ha
 
 ## Contact
 
-- [Blog](https://felippepuhle.github.io)
-- [LinkedIn](https://www.linkedin.com/in/lippep)
+- [Blog](https://medium.com/@felippepuhle)
+- [LinkedIn](https://www.linkedin.com/in/felippepuhle)
 - [Twitter](https://www.twitter.com/felippepuhle)
 - [GitHub](https://github.com/felippepuhle)
 - [E-mail](mailto:felippe.puhle@gmail.com)
@@ -75,27 +75,24 @@ Key technologies: IBM System X, IBM Blade Center, IBM System Storage
 
 ## Skills
 
-- Bleeding Edge (ReactJS + Relay + GraphQL)
-- Java
-- SEO
-- PHP
-- Cordova / Intel XDK
-- AngularJS
+- ReactJS
+- React Native
+- Relay
+- GraphQL
 - Javascript
+- MongoDB
+- SEO
+- Java
 - Git
-- Grunt and Gulp
-- CSS, Sass and LESS
-- MySQL and MongoDB
+- CSS
+- MySQL
 - ElasticSearch
 - Tests
-- Docker (studying)
-- Continuous Integration (studying)
-- Python (studying)
-- Ruby (studying)
 
 
 ## Other activities and projects
-- Founder/organizer of [OESTI Digital](https://www.oestidigital.com.br/)
+- Founder of [Releasy](https://github.com/releasy/)
+- Founder/organizer of [OESTI Digital](https://github.com/OESTIDigital/)
 - Founder of [Aero Admin - Material Design Responsive Dashboard](http://demo.felippepuhle.com.br/aero/)
 
 
