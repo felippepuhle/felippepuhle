@@ -1,6 +1,6 @@
 # About Me
 
-Hello! My name is **Felippe Rodrigo Puhle**, I'm 29 years old and I live in São Miguel do Oeste - Santa Catarina. I'm graduated in Internet Systems at UNISUL, and I'm a **full-stack developer** at [Entria](https://www.entria.com.br), currently working with bleeding edge technology - ReactJS, Relay and GraphQL.
+Hello! My name is **Felippe Rodrigo Puhle**, I'm 29 years old and I live in São Miguel do Oeste - Santa Catarina. I'm graduated in Internet Systems at UNISUL, and I'm a **full-stack developer** at [Horizon Four](https://horizonfour.com.br/).
 
 I love to develop software with clean code, and I'm fictionalized to learn as many things that I can. I've been studying a lot to indulge this **thirst for knowledge**. Therefore, I love to pass on all the things that I've learned too.
 
@@ -38,9 +38,13 @@ Technologist in Internet Systems (2012-2015)
 
 ## Professional experience
 
+### Horizon Four
+
+**Full Stack Developer** (2018-current)
+
 ### Entria
 
-**Full Stack Developer** (2017-current)
+**Full Stack Developer** (2017-2018)
 
 ### DBlinks - Agência Digital
 
