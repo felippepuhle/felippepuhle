@@ -1,6 +1,6 @@
 # About Me
 
-Hello! My name is **Felippe Rodrigo Puhle**, I'm 29 years old and I live in São José do Cedro - Santa Catarina. I'm graduated in Internet Systems at UNISUL, and I'm a **full-stack developer** at [Horizon Four](https://horizonfour.com.br/).
+Hello! My name is **Felippe Rodrigo Puhle**, I'm 29 years old and I live in São José do Cedro - Santa Catarina. I'm graduated in Internet Systems at UNISUL, and I'm a **Software Engineer** at [HelloMD](https://hellomd.com/).
 
 I love to develop software with clean code, and I'm fictionalized to learn as many things that I can. I've been studying a lot to indulge this **thirst for knowledge**. Therefore, I love to pass on all the things that I've learned too.
 
@@ -38,23 +38,41 @@ Technologist in Internet Systems (2012-2015)
 
 ## Professional experience
 
+### HelloMD
+
+**Software Engineer** (2018-current)
+
+Key technologies: ReactJS, Redux, Redux-Saga, Recompose
+
 ### Horizon Four
 
-**Full Stack Developer** (2018-current)
+**Software Engineer** (2018)
+
+Horizon Four is a software house that thinks beyond the source code, always doing the best for the client purpose.
+
+I was a senior developer, leading most of the startups projects and helped on Shawee (an internal project focused on hackatons and teams management) too.
+
+Key technologe: ReactJS, React Native, GraphQL, Apollo, Redux
 
 ### Entria
 
-**Full Stack Developer** (2017-2018)
+**Software Engineer** (2017-2018)
+
+Entria is a tech team that build awesome solutions using bleeding edge technologies.
+
+I was a senior developer that brought up creative solutions to solve complex problems. Also worked on challenging projects of many respected companies, like Natura and Feedback House.
+
+Key technologies: ReactJS, React Native, Relay, GraphQL, Redux, Redux-Saga, Recompose, MongoDB, MySQL, PostgreSQL
 
 ### DBlinks - Agência Digital
 
-**Full Stack Developer** (2012-2017)
+**Software Engineer** (2012-2017)
 
-DBlinks is a multiplataform digital agency that convert different talents (inovation + technology + digital) to think about brands in a different way.
+DBlinks is a multiplataform digital agency that convert different talents (inovation + technology + digital) to think about brands in a different way. Its focus is on the supermarkets niche, offering products such as e-commerce, websites and others.
 
 I was the technical leader of the team, architecting new ways to develop software and mentoring the team to work in a nice way.
 
-Key technologies: ReactJS, Relay, GraphQL, MongoDB, SEO, Java, Spring Boot, CDI, Selenium, PHP, CodeIgniter, Symfony, Slim Framework, HTML, CSS, Bootstrap, Grunt, Gulp, LESS, Javascript, Cordova, IONIC, AngularJS, MySQL, ElasticSearch, AWS
+Key technologies: ReactJS, Relay, GraphQL, Redux, MongoDB, SEO, Java, Spring Boot, CDI, Selenium, PHP, CodeIgniter, Symfony, Slim Framework, Cordova, IONIC, AngularJS, MySQL, ElasticSearch, AWS
 
 ### SMO Internet Provider
 
