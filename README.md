@@ -42,25 +42,17 @@ Technologist in Internet Systems (2012-2015)
 
 **Software Engineer** (2018-current)
 
-Key technologies: ReactJS, Redux, Redux-Saga, Recompose
+Key technologies: ReactJS, React Native, Redux
 
 ### Horizon Four
 
 **Software Engineer** (2018)
 
-Horizon Four is a software house that thinks beyond the source code, always doing the best for the client purpose.
-
-I was a senior developer, leading most of the startups projects and helped on Shawee (an internal project focused on hackatons and teams management) too.
-
-Key technologe: ReactJS, React Native, GraphQL, Apollo, Redux
+Key technologies: ReactJS, React Native, GraphQL, Apollo, Redux
 
 ### Entria
 
 **Software Engineer** (2017-2018)
-
-Entria is a tech team that build awesome solutions using bleeding edge technologies.
-
-I was a senior developer that brought up creative solutions to solve complex problems. Also worked on challenging projects of many respected companies, like Natura and Feedback House.
 
 Key technologies: ReactJS, React Native, Relay, GraphQL, Redux, Redux-Saga, Recompose, MongoDB, MySQL, PostgreSQL
 
@@ -68,29 +60,17 @@ Key technologies: ReactJS, React Native, Relay, GraphQL, Redux, Redux-Saga, Reco
 
 **Software Engineer** (2012-2017)
 
-DBlinks is a multiplataform digital agency that convert different talents (inovation + technology + digital) to think about brands in a different way. Its focus is on the supermarkets niche, offering products such as e-commerce, websites and others.
-
-I was the technical leader of the team, architecting new ways to develop software and mentoring the team to work in a nice way.
-
 Key technologies: ReactJS, Relay, GraphQL, Redux, MongoDB, SEO, Java, Spring Boot, CDI, Selenium, PHP, CodeIgniter, Symfony, Slim Framework, Cordova, IONIC, AngularJS, MySQL, ElasticSearch, AWS
 
 ### SMO Internet Provider
 
 **Wireless network technician and web developer** (2011-2012, 2007-2010)
 
-SMO Internet Provider was an internet service provider. Now known as SMO Telecom, has more than 25 years of experience providing a quality service to the population of São Miguel do Oeste - Santa Catarina.
-
-I was in charge of the support team, providing assistance and custom support to the customers and infrastructure of local networks. I also developed and provided maintenance in websites, and developed web systems that allows the management of the servers, controlling bandwidth, access and other features.
-
 Key technologies: PHP, MySQL, Javascript, LAN, WAN, Mikrotik, AP Router, Ubiquiti, Linux, Unix
 
 ### Safesystem Informática
 
 **Pre sales auxiliary** (2011)
-
-Safesystem Informática is a company that deliver intelligent IT solutions to the customers in a way that they can have return on their investment. Located on Curitiba - Paraná, it's considerated a leading IT solutions provider to the corporate and government segments.
-
-In my role, I acted as a technical expert to strengthen the business acumen, to understand and communicate business requirements and solution to prospects.
 
 Key technologies: IBM System X, IBM Blade Center, IBM System Storage
 
