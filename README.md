@@ -1,10 +1,10 @@
 # About Me
 
-Hello! My name is **Felippe Rodrigo Puhle**, I'm 29 years old and I live in São José do Cedro - Santa Catarina. I'm graduated in Internet Systems at UNISUL, and I'm a **Software Engineer** at [HelloMD](https://hellomd.com/).
+Hello! My name is Felippe Rodrigo Puhle, I'm 31 years old and I live in São José do Cedro - Santa Catarina. I'm graduated in Internet Systems at UNISUL, and I'm a Software Engineer at HelloMD.
 
-I love to develop software with clean code, and I'm fictionalized to learn as many things that I can. I've been studying a lot to indulge this **thirst for knowledge**. Therefore, I love to pass on all the things that I've learned too.
+I love to develop software with clean code, and I'm fascinated with learning as many things as I can. I've been studying a lot to indulge this thirst for knowledge. Therefore, I love to pass on all the things that I've learned too.
 
-I consider myself a communicative person, always doing my best to make things happen.
+I consider myself a communicative person, always doing my best to make things happen. 
 
 
 ## Contact
