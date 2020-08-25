@@ -12,5 +12,4 @@ I consider myself a communicative person, always doing my best to make things ha
 - [Blog](https://medium.com/@felippepuhle)
 - [LinkedIn](https://www.linkedin.com/in/felippepuhle)
 - [Twitter](https://www.twitter.com/felippepuhle)
-- [GitHub](https://github.com/felippepuhle)
 - [E-mail](mailto:felippe.puhle@gmail.com)
