@@ -9,6 +9,7 @@ I consider myself a communicative person, always doing my best to make things ha
 
 ## Contact
 
+- [Website](https://felippepuhle.github.io/)
 - [Blog](https://medium.com/@felippepuhle)
 - [LinkedIn](https://www.linkedin.com/in/felippepuhle)
 - [Twitter](https://www.twitter.com/felippepuhle)
